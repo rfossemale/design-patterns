@@ -4,4 +4,6 @@ use (
 	.
 	src/creational/AbstractFactory
 	src/creational/Builder
+	src/creational/Prototype
+	src/structural/Adapter
 )
